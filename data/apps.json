@@ -16,5 +16,14 @@
     "url": "https://github.com/Samosmao/Me-store/releases/download/v1.3/vpn2091_extension.zip",
     "size": "7.74KB",
     "id": "vpn-extension-ms20gyxo"
+  },
+  {
+    "name": "Khmer Unicode",
+    "version": "juk",
+    "description": "",
+    "icon": "📦",
+    "url": "https://github.com/Samosmao/Me-store/releases/download/juk/KhmerUnicode2.0.1.rar",
+    "size": "1.6MB",
+    "id": "khmer-unicode-ms20mkab"
   }
 ]
