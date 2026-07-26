@@ -25,5 +25,14 @@
     "url": "https://github.com/Samosmao/Me-store/releases/download/juk/KhmerUnicode2.0.1.rar",
     "size": "1.6MB",
     "id": "khmer-unicode-ms20mkab"
+  },
+  {
+    "name": "Snipaste",
+    "version": "2.11.3",
+    "description": "",
+    "icon": "📦",
+    "url": "https://github.com/Samosmao/Me-store/releases/download/otdg/Snipaste-2.11.3-x64.zip",
+    "size": "19.6MB",
+    "id": "snipaste-ms20tbe0"
   }
 ]
