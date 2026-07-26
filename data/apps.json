@@ -7,5 +7,14 @@
     "url": "https://github.com/Samosmao/Me-store/releases/download/v1/jruk_extension_v_3o.zip",
     "size": "14.4Kb",
     "id": "detect-chinese-version-1918-ms2078gt"
+  },
+  {
+    "name": "VPN extension",
+    "version": "v1.3",
+    "description": "",
+    "icon": "📦",
+    "url": "https://github.com/Samosmao/Me-store/releases/download/v1.3/vpn2091_extension.zip",
+    "size": "7.74KB",
+    "id": "vpn-extension-ms20gyxo"
   }
 ]
